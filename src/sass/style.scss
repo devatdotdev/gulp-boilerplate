@@ -1,0 +1,12 @@
+$bgColor: #000000;
+$color: #39ff14;
+
+* {
+  color: inherit;
+}
+
+body,
+html {
+  background-color: $bgColor;
+  color: $color;
+}

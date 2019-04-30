@@ -1,0 +1,9 @@
+$fontFamily: 'montserrat';
+
+html {
+  font-family: $fontFamily !important;
+}
+
+* {
+  font-family: inherit;
+}
